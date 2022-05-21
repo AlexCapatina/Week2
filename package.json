@@ -1,0 +1,11 @@
+{
+  "name": "comp229-summer2022-week2",
+  "version": "0.01",
+  "description": "Demo project for COMP229 summer semester at Centennial",
+  "main": "server.js",
+  "author": "Alex Capatina",
+  "license": "MIT",
+  "dependencies": {
+    "mime-types": "^2.1.35"
+  }
+}
